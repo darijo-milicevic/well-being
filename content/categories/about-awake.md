@@ -1,6 +1,6 @@
 ---
-name: Diets
+name: Diet
 image: /logo.svg
-description: A category about diets
+description: A category about the diet
 ---
 
