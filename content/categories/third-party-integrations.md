@@ -1,5 +1,6 @@
 ---
-name: Third Party Integrations
-image: https://picsum.photos/1800/1801
+name: Quit Smoking
+image: 'https://picsum.photos/1800/1801'
+description: A category about quitting smoking
 ---
-Extend the functionality of Awake with third party integrations
+
