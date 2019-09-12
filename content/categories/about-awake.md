@@ -1,5 +1,6 @@
 ---
-name: About Awake
+name: Diets
 image: /logo.svg
+description: A category about diets
 ---
-All about the Awake Nuxt Template
+
