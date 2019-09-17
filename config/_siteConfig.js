@@ -10,9 +10,9 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'UrWellBeing',
-  tagline: 'Learnings from the journey to improve quality of life.',
+  tagline: 'Win every day',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID

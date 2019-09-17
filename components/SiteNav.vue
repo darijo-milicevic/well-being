@@ -60,8 +60,11 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+.navbar-item {
+  padding: 0rem 0.75rem;
+}
 .navbar-item img {
-  max-height: 2rem;
+  max-height: 6rem;
 }
 .site-search-wrapper {
   transform: translateX(5px);
