@@ -2,11 +2,11 @@
   <div class="card quote-card">
     <div class="card-content">
       <p class="title">
-        “Always code as if the guy who ends up maintaining your code will be a
-        violent psychopath who knows where you live.”
+        “Life is not primarily a quest for pleasure, as Freud believed, or a
+        quest for power, as Alfred Adler taught, but a quest for meaning.”
       </p>
       <p class="subtitle">
-        ~ Martin Golding
+        ~ Viktor E. Frankl, Man's Search for Meaning
       </p>
     </div>
     <footer class="card-footer">
