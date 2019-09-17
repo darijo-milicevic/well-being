@@ -64,7 +64,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://gmail.us4.list-manage.com/subscribe/post?u=f9b1d73fcfb1630c5928ad6cd&amp;id=4b9f16a9de'
     },
     custom: {
       on: false,
@@ -85,7 +85,7 @@ export default {
     on: true,
     theme: null, // See card.theme (can be unique for posts if set here)
     imageDimensions: null, // See card.imageDimensions (can be unique for posts if set here)
-    displayAuthor: true,
+    displayAuthor: false,
     date: {
       display: true
     },
