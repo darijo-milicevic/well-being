@@ -27,9 +27,8 @@
 
           <h3>The motivation</h3>
           <p>
-            I want to share my experiences and learnings to positively influence
-            you to make the best choices for yourself when it comes to your
-            well-being.
+            I'm driven by the desire to positively influence you to make the
+            best choices for yourself when it comes to your well-being.
           </p>
           <quote-card />
         </div>
